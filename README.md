@@ -2,8 +2,6 @@
 
 The macropad of your Dreams (or at least mine)!
 
-[Upstream repo on my Github page](https://github.com/WilmervH/Pinuspad)
-
 ### Featuring:
 
 - 9 customizable mechanical buttons
